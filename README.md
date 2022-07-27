@@ -1,9 +1,12 @@
-<h1 align="center">Hi 🤘, Welcome here!</h1>
-<h3 align="center">Learning everyday!</h3>
+<h1 align = "center">Hi 🤘, Welcome here! </h1>
+<h2 align = "center"> /// You are on Saptarshi Pal's Github Profile \\\ </h2>
+<h3 align = "center">Learning everyday! </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapt-pal&label=Profile%20views&color=10b49f&style=flat-square" alt="sapt-pal" /> </p>
+<p align = "left"> <img src="https://komarev.com/ghpvc/?username=sapt-pal&label=Profile%20views&color=10b49f&style=flat-square" alt="sapt-pal" /> </p>
 
 - 🎓 I’m currently learning **Python, JavaScript, HTML, CSS, SQL**
+
+- 📝 Have plans to learn C/C++, Java, TypeScript
 
 - 💬 Ask me about **Python, JS, HTML, CSS, SQL, GitHub**
 
