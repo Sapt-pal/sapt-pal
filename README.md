@@ -4,7 +4,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sapt-pal&label=Profile%20views&color=10b49f&style=flat-square" alt="sapt-pal" /></p>
 
-- 🎓 I’m currently learning **C, C++, Java, Python, JavaScript, HTML, CSS, SQL** - 📝 Have plans to learn TypeScript - 💬 Ask me about **Python, JS, HTML, CSS, SQL, GitHub**
+- 🎓 I’m currently learning **C, C++, Java, Python, JavaScript, HTML, CSS, SQL** 
+- 📝 Have plans to learn TypeScript, Golang 
+- 💬 Ask me about **Python, JS, HTML, CSS, SQL, GitHub**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
