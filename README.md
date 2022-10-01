@@ -20,6 +20,12 @@
 <!-- <a href = "" target = "_blank" rel = "noreferrer">
 <img src = "" alt = "" title = "" width = "40" height = "40"/>
 </a> -->
+<a href = "https://www.iso.org/standard/74528.html" target = "_blank" rel = "noreferrer">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20220802133510%21The_C_Programming_Language_logo.svg" alt = "C" title = "C language" width = "40" height = "40"/>
+</a>
+<a href = "" target = "_blank" rel = "noreferrer">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt = "C++" width = "40" height = "40"/>
+</a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
