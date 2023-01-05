@@ -83,4 +83,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapt-pal&theme=dark" alt="sapt-pal" /></p>
 
+
+<a href = "https://profile-summary-for-github.com/user/Sapt-pal"> Saptarshi's Github Summary </a>
+
+
 [![Saptarshi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sapt-pal&theme=github-dark&hide_border=true)](Forkedfromhttps://github.com/ashutosh00710/github-readme-activity-graph)
